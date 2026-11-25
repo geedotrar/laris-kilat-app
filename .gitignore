@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+
+go.work
+go.work.sum
+
+*.exe
+*.test
+*.out
+bin/
+tmp/
+.DS_Store
+.vscode
